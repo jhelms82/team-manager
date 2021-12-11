@@ -1,0 +1,14 @@
+{
+    "name": "Roster Manager",
+    "short_name": "RM",
+    "description": "Manage your roster",
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#fc3444",
+    "theme_color": "#fc3444",
+    "dir": "ltr",
+    "lang": "en-US"
+
+}

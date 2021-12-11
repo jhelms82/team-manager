@@ -1,0 +1,25 @@
+label {
+  display: inline-block;
+  width: 80px;
+}
+
+input,
+select {
+  width: 120px;
+}
+
+/* colours */
+:root {
+  --secondary: #17c225;
+  --primary: #f0720b;
+}
+
+/* layout styles */
+nav {
+  background: var(--primary);
+  border-bottom: 10px solid var(--secondary);
+}
+
+.home-body {
+  background-color: var(--primary);
+}
